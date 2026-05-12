@@ -41,6 +41,8 @@ set(SOURCES
     src/Renderer/Shader.cpp
     src/Renderer/Camera.h
     src/Renderer/Camera.cpp
+    src/Renderer/Texture.h
+    src/Renderer/Texture.cpp
 )
 
 # Create executable
